@@ -1,0 +1,8 @@
+C:\Users\Awa NDIAYE\Documents\ApplicationTest\MyFirstFullStackApp\MyFirstFullStackApp.Model\bin\Debug\netcoreapp2.2\MyFirstFullStackApp.DAL.deps.json
+C:\Users\Awa NDIAYE\Documents\ApplicationTest\MyFirstFullStackApp\MyFirstFullStackApp.Model\bin\Debug\netcoreapp2.2\MyFirstFullStackApp.DAL.dll
+C:\Users\Awa NDIAYE\Documents\ApplicationTest\MyFirstFullStackApp\MyFirstFullStackApp.Model\obj\Debug\netcoreapp2.2\MyFirstFullStackApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Awa NDIAYE\Documents\ApplicationTest\MyFirstFullStackApp\MyFirstFullStackApp.Model\obj\Debug\netcoreapp2.2\MyFirstFullStackApp.DAL.AssemblyInfoInputs.cache
+C:\Users\Awa NDIAYE\Documents\ApplicationTest\MyFirstFullStackApp\MyFirstFullStackApp.Model\obj\Debug\netcoreapp2.2\MyFirstFullStackApp.DAL.AssemblyInfo.cs
+C:\Users\Awa NDIAYE\Documents\ApplicationTest\MyFirstFullStackApp\MyFirstFullStackApp.Model\bin\Debug\netcoreapp2.2\MyFirstFullStackApp.DAL.pdb
+C:\Users\Awa NDIAYE\Documents\ApplicationTest\MyFirstFullStackApp\MyFirstFullStackApp.Model\obj\Debug\netcoreapp2.2\MyFirstFullStackApp.DAL.dll
+C:\Users\Awa NDIAYE\Documents\ApplicationTest\MyFirstFullStackApp\MyFirstFullStackApp.Model\obj\Debug\netcoreapp2.2\MyFirstFullStackApp.DAL.pdb

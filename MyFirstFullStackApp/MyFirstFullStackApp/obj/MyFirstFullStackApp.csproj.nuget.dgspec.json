@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Awa NDIAYE\\Documents\\ApplicationTest\\MyFirstFullStackApp\\MyFirstFullStackApp\\MyFirstFullStackApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Awa NDIAYE\\Documents\\ApplicationTest\\MyFirstFullStackApp\\MyFirstFullStackApp.Business\\MyFirstFullStackApp.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Awa NDIAYE\\Documents\\ApplicationTest\\MyFirstFullStackApp\\MyFirstFullStackApp.Business\\MyFirstFullStackApp.Business.csproj",
+        "projectName": "MyFirstFullStackApp.Business",
+        "projectPath": "C:\\Users\\Awa NDIAYE\\Documents\\ApplicationTest\\MyFirstFullStackApp\\MyFirstFullStackApp.Business\\MyFirstFullStackApp.Business.csproj",
+        "packagesPath": "C:\\Users\\Awa NDIAYE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Awa NDIAYE\\Documents\\ApplicationTest\\MyFirstFullStackApp\\MyFirstFullStackApp.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Awa NDIAYE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Awa NDIAYE\\Documents\\ApplicationTest\\MyFirstFullStackApp\\MyFirstFullStackApp.Model\\MyFirstFullStackApp.DAL.csproj": {
+                "projectPath": "C:\\Users\\Awa NDIAYE\\Documents\\ApplicationTest\\MyFirstFullStackApp\\MyFirstFullStackApp.Model\\MyFirstFullStackApp.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Awa NDIAYE\\Documents\\ApplicationTest\\MyFirstFullStackApp\\MyFirstFullStackApp.Model\\MyFirstFullStackApp.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Awa NDIAYE\\Documents\\ApplicationTest\\MyFirstFullStackApp\\MyFirstFullStackApp.Model\\MyFirstFullStackApp.DAL.csproj",
+        "projectName": "MyFirstFullStackApp.DAL",
+        "projectPath": "C:\\Users\\Awa NDIAYE\\Documents\\ApplicationTest\\MyFirstFullStackApp\\MyFirstFullStackApp.Model\\MyFirstFullStackApp.DAL.csproj",
+        "packagesPath": "C:\\Users\\Awa NDIAYE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Awa NDIAYE\\Documents\\ApplicationTest\\MyFirstFullStackApp\\MyFirstFullStackApp.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Awa NDIAYE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Awa NDIAYE\\Documents\\ApplicationTest\\MyFirstFullStackApp\\MyFirstFullStackApp\\MyFirstFullStackApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Awa NDIAYE\\Documents\\ApplicationTest\\MyFirstFullStackApp\\MyFirstFullStackApp\\MyFirstFullStackApp.csproj",
+        "projectName": "MyFirstFullStackApp",
+        "projectPath": "C:\\Users\\Awa NDIAYE\\Documents\\ApplicationTest\\MyFirstFullStackApp\\MyFirstFullStackApp\\MyFirstFullStackApp.csproj",
+        "packagesPath": "C:\\Users\\Awa NDIAYE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Awa NDIAYE\\Documents\\ApplicationTest\\MyFirstFullStackApp\\MyFirstFullStackApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Awa NDIAYE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Awa NDIAYE\\Documents\\ApplicationTest\\MyFirstFullStackApp\\MyFirstFullStackApp.Business\\MyFirstFullStackApp.Business.csproj": {
+                "projectPath": "C:\\Users\\Awa NDIAYE\\Documents\\ApplicationTest\\MyFirstFullStackApp\\MyFirstFullStackApp.Business\\MyFirstFullStackApp.Business.csproj"
+              },
+              "C:\\Users\\Awa NDIAYE\\Documents\\ApplicationTest\\MyFirstFullStackApp\\MyFirstFullStackApp.Model\\MyFirstFullStackApp.DAL.csproj": {
+                "projectPath": "C:\\Users\\Awa NDIAYE\\Documents\\ApplicationTest\\MyFirstFullStackApp\\MyFirstFullStackApp.Model\\MyFirstFullStackApp.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
